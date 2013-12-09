@@ -1,0 +1,21 @@
+{
+  "name": "amd-loader",
+  "version": "0.0.0",
+  "homepage": "https://github.com/thaume/amd-loader",
+  "authors": [
+    "Tom Coquerear <tom@thau.me>"
+  ],
+  "description": "Micro amd loader",
+  "main": "loader.js",
+  "keywords": [
+    "amd"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
