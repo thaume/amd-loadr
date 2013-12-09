@@ -1,12 +1,12 @@
 {
-  "name": "amd-loader",
-  "version": "0.0.0",
-  "homepage": "https://github.com/thaume/amd-loader",
+  "name": "amd-loadr",
+  "version": "0.0.1",
+  "homepage": "https://github.com/thaume/amd-loadr",
   "authors": [
     "Tom Coquerear <tom@thau.me>"
   ],
-  "description": "Micro amd loader",
-  "main": "loader.js",
+  "description": "Micro AMD loader",
+  "main": "loadr.js",
   "keywords": [
     "amd"
   ],
