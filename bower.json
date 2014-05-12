@@ -1,6 +1,6 @@
 {
   "name": "amd-loadr",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "homepage": "https://github.com/thaume/amd-loadr",
   "authors": [
     "Tom Coquerear <tom@thau.me>"
